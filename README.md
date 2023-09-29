@@ -1,3 +1,3 @@
 # myfirstrepo
-My Name : Yusuf
+My Name : Yusuf \n
 My WSU Email : yusuf.bilgich@wsu.edu
